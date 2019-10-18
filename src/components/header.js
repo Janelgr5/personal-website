@@ -41,10 +41,10 @@ const Header = ({ siteTitle }) => (
           color: `white`,
           textDecoration: `none`,
         }}>Blogs</Link>
-      {/* <Link to="/talks" style={{
+      <Link to="/recommendations" style={{
           color: `white`,
           textDecoration: `none`,
-        }}>About Me</Link> */}
+        }}>Recommendations</Link>
     </div>
   </header>
 )
